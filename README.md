@@ -21,7 +21,7 @@ O objetivo é praticar conceitos da linguagem e evoluir como programador.
    ```bash
    cd Aprendendo-Java/Nome-do-Exercicio
 3. Compile e execute com o Java:
-  ``` bash
+   ``` bash
    javac NomeDoArquivo.java
    java NomeDoArquivo
    
