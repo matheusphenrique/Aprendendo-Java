@@ -24,5 +24,7 @@ public class Exercicio_06 {
         double Retangulo = A * B;
 
         System.out.printf("TRIANGULO: %.3f%n CIRCULO: %.3f%n TRAPEZIO: %.3f%n QUADRADO: %.3f%n RETANGULO: %.3f%n", Triangulo, Circulo, Trapezio, Quadrado, Retangulo);
+
+        sc.close();
     }
 }
