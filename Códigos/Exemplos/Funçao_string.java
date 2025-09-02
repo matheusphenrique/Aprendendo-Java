@@ -1,3 +1,4 @@
+package Exemplos;
 public class Funçao_string {
     public static void main(String[] args) {
         

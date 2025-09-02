@@ -1,3 +1,4 @@
+package Exemplos;
 import java.util.Scanner;
 
 public class Estrutura_Switch_case{

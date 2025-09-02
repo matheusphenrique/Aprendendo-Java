@@ -1,3 +1,4 @@
+package Exemplos;
 public class Funcao_Matematica {
     public static void main(String[] args) {
          

@@ -1,3 +1,4 @@
+package Exemplos;
 import java.util.Locale;
 
 public class ExercicioDeFixacao {

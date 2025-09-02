@@ -1,3 +1,4 @@
+package Exemplos;
 import java.util.Scanner;
 public class Comando_While {
     public static void main(String[] args) {
