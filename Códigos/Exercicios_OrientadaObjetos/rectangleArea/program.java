@@ -10,8 +10,8 @@ public class program {
         
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        rectangle rectangle;
-        rectangle = new rectangle();
+        
+        rectangle rectangle = new rectangle();
 
         System.out.println("Enter rectangle wigth and height: ");
         rectangle.width = sc.nextDouble();
